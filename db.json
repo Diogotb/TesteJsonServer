@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"joao",
+            "age":30
+        },
+        {
+            "id":2,
+            "name":"maria",
+            "age":25
+        }
+    ]
+}
