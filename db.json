@@ -1,14 +1,9 @@
 {
-  "usuarios": [
-    {
-      "id": "1",
-      "nome": "João",
-      "email": "joao@example.com"
-    },
-    {
-      "id": "2",
-      "nome": "Maria",
-      "email": "maria@example.com"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
